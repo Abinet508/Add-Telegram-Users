@@ -1,0 +1,16 @@
+[
+    {
+        "newsession1": {
+            "api_id": 4849078,
+            "api_hash": "bd5f7c2c5ca67f09ed0d536826c05b7b"
+        },
+        "newsession2": {
+            "api_id": 20362593,
+            "api_hash": "cad3650e74373d3b79c3b728c9715f3e"
+        },
+        "newsession3": {
+            "api_id": 20362594,
+            "api_hash": "cad3650e74373d3b79c3b728c9715f3e"
+        }
+    }
+]

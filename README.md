@@ -9,7 +9,6 @@
 * Python 3.6+
 * Telegram API Id and API hash
 * Telethon
-* QRCode
 * python-decouple
 ``
 ### Additional Requirements

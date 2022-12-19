@@ -1,6 +1,6 @@
-# ```Scrape-Telegram-Users```
+# ```Add-Telegram-Users```
 
-## Telegram script to scrape users from Telegram groups
+## Telegram script to Add users to a Telegram group
 
 ## Requirements
 ### ** Prerequisites
